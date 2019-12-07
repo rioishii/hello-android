@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello Android</string>
+    <string-array name="greetings">
+        <item>Hello to Android Development</item>
+        <item>This is a very warm personal greeting</item>
+    </string-array>
+</resources>
